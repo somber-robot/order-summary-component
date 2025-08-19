@@ -1,0 +1,9 @@
+:root{
+    --bg-color: hsl(225, 100%, 94%);
+}
+
+body{
+    background-color: var(--bg-color);
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+}
